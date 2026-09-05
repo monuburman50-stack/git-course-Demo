@@ -3,4 +3,3 @@ Get the user data....
 create an avtar for user
 monu1
 monu2
-monu3
